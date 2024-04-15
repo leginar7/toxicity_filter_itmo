@@ -1,0 +1,1 @@
+Our case was to make a toxicity filter API and we had 10 hours for it. My part was to make a simple iOS app to demonstrate capabilities of our API and to write a python function that would make calls to chatGPT to rephrase toxic sentences.
